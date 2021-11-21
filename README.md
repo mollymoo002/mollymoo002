@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @mollymoo002
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Front-End Web Developer utilizing HTML, CSS, and JavaScript
 
 <!---
 mollymoo002/mollymoo002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
